@@ -6,6 +6,6 @@ public class RoomArea {
         Room indentity = new Room();
         indentity.GetName(15, "Sandesh");
         indentity.GetName(12, "Santosh");
-        System.out.println(indentity.id + " " +indentity.Name);
+        System.out.println(indentity.id +" "+indentity.Name);
     }
 }
